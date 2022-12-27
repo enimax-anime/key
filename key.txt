@@ -1,1 +1,4 @@
-b76fd5e7492837b64fc0c2c069b09471
+SyntaxError: Unexpected end of input
+    at analyzeFile (/home/soitchu/Desktop/dump/bot/de.js:120:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+error
