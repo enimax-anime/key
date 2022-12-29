@@ -1,1 +1,3 @@
-c94521b2a9206c0329d0eab114221853
+SyntaxError: Unexpected end of input
+    at analyzeFile (/home/soitchu/Desktop/dump/bot/de.js:120:35)
+error
